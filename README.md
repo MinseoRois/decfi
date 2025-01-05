@@ -1,3 +1,5 @@
+# Notes: Worldcup prediction algorithm and Golf posture processing camera are work by 5 members in DECFI Engineering Club
+
 # Pseudo codes
 ※ The list of functions to actually implement can be found under "Function Needed" if you scroll down !
 
